@@ -1,2 +1,2 @@
-# README.md
- TAT Lab website & repo
+# TAT Lab website & repo
+Where all the lab's ideas and projects live.
