@@ -1,2 +1,2 @@
-# uwtatlab.github.io
- TAT Lab website
+# README.md
+ TAT Lab website & repo
