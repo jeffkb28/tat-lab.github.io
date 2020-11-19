@@ -1,41 +1,23 @@
+---
+layout: default
+---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<div class="home">
 
-  <title>UW TAT Lab</title>
+  <h1 class="page-heading">Posts</h1>
 
-  <link hrel="style.css" media="screen" rel="stylesheet" type="text/css"/>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-</head>
-<body>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-  <div class="header">
-  	 <h1>The TAT Lab: the Tactile and Tactical Design Lab</h1>
-  	<p>
-    </p>
-     <p>
-     Welcome to the Tactile and Tactical Design Lab (TAT Lab) at the University of Washington! We seek to open new opportunities for sustainable technology development, broaden the diversity of design and engineering education, and extend theoretical frameworks that further our understanding of design and social change.
-<p>
-  <img src="images/uw_campus.jpg" width=800></a>
-            </p>
-            <p>    
-        </div>
-
-
-        <div class="project">
-            <div class="project">
-              <a href="projects/project_template/project_template.html"><h2>Project template: A Fun Project</h2>
-                  <img src="projects/project_template/sybil one.JPG" width=250></a>
-                <p>
-
- <div class="project">
-            <div class="project">
-            <a href="gabrielle_page.html"><h2>Gabrielle'page!</h2>
-              
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-</body>
-</html>
