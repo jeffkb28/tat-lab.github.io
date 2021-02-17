@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs.iml" filepath="$PROJECT_DIR$/.idea/modules/docs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs1.iml" filepath="$PROJECT_DIR$/.idea/modules/docs1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tat-lab.github.io.iml" filepath="$PROJECT_DIR$/.idea/tat-lab.github.io.iml" />
     </modules>
   </component>
