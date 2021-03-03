@@ -273,7 +273,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-include-cache
   kramdown-parser-gfm
-  minima (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
   tzinfo-data
