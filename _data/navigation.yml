@@ -3,6 +3,6 @@ main:
   - title: "HCDE"
     url: https://www.hcde.washington.edu
   - title: "About"
-    url: https://www.hcde.washington.edu/about
+    url: /about
   - title: "People"
-    url: https://www.hcde.washington.edu/about
+    url: /people
