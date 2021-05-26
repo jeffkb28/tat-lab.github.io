@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb19bf7-fa9f-4b5b-8c33-95017b182851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Cunningham.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Dunbar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Kinnee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Kolko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Lustig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Michelson.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Peil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Rosner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Silva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Subbaraman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Wang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tat-lab.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tat-lab.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +54,16 @@
       <workItem from="1618422650440" duration="1756000" />
       <workItem from="1622041917574" duration="631000" />
       <workItem from="1622046399675" duration="70000" />
-      <workItem from="1622046582404" duration="8688000" />
+      <workItem from="1622046582404" duration="9305000" />
     </task>
+    <task id="LOCAL-00001" summary="people page">
+      <created>1622055365284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622055365284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +80,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="people page" />
+    <option name="LAST_COMMIT_MESSAGE" value="people page" />
   </component>
 </project>
