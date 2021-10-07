@@ -210,3 +210,16 @@ img{
   font-weight: normal;
   font-size: 15px;
 }
+
+.custom-footer{
+  font-size: 12px;
+  font-weight: normal;
+
+  & a{
+    text-decoration: underline;
+  }
+  & .email-char{
+    color: #a2a2a2;
+  }
+}
+

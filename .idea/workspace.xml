@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e3b3129-9949-4164-add9-35181de7147d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar/hoy_avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/feather/scholar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/cunningham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/dunbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/hoy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/kinnee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/kolko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/lustig.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/michelson.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/peil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/rosner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/silva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/subbaraman.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/wang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cunningham_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/cunningham_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/dunbar_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/dunbar_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/kinnee_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/kinnee_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/kolko_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/kolko_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lustig_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/lustig_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/michelson_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/michelson_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/peil_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/peil_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/rosner_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/rosner_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/silva_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/silva_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/subbaraman_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/subbaraman_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/wang_avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar/wang_avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/people/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
