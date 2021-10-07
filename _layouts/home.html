@@ -2,13 +2,22 @@
 layout: archive
 ---
 
-{{ content }}
+<div class="header-img">
+  <img src="/assets/img/logo.png" alt="">
+</div>
 
+<style>
+  .author__content{visibility: hidden;}
+  .author__urls-wrapper{visibility: hidden;}
+</style>
+
+<div class="header-welcome">
 <p>Welcome to the Tactile and Tactical Design Lab (TAT Lab) at the University of Washington! We seek to open new
   opportunities for sustainable technology development, broaden the diversity of design and engineering education,
   and extend theoretical frameworks that further our understanding of design and social change.</p>
+</div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">What's new at TAT Lab</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
