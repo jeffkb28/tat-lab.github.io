@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2e3b3129-9949-4164-add9-35181de7147d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +33,39 @@
     <setting file="file://$PROJECT_DIR$/_site/people/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/research/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectId" id="1zNRSBiIvRh0uvSIY0pCNkKPqTq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/people" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="false" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e3b3129-9949-4164-add9-35181de7147d" name="Default Changelist" comment="" />
+      <created>1633986565322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633986565322</updated>
+      <workItem from="1633986571963" duration="640000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
