@@ -32,7 +32,7 @@ img{
   max-height: 600px;
   overflow: hidden;
   background-image: radial-gradient(circle at center center, rgba(146, 146, 146, 0.05), rgba(236, 236, 236, 0.1)),
-    repeating-radial-gradient(circle at center center, rgba(146, 146, 146, 0.05), rgba(146, 146, 146, 0.05), 29px, transparent 58px, transparent 29px);
+  repeating-radial-gradient(circle at center center, rgba(146, 146, 146, 0.05), rgba(146, 146, 146, 0.05), 29px, transparent 58px, transparent 29px);
   background-blend-mode: multiply;
 
   & img{
@@ -208,5 +208,17 @@ img{
 .name-pronoun{
   color: gray;
   font-weight: normal;
+  font-size: 15px;
+}
+
+.custom-footer{
   font-size: 12px;
+  font-weight: normal;
+
+  & a{
+    text-decoration: underline;
+  }
+  & .email-char{
+    color: #a2a2a2;
+  }
 }
