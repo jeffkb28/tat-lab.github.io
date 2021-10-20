@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e3b3129-9949-4164-add9-35181de7147d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/avatar/benabdallah_avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/avatar/moldestad_avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/benabdallah.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/moldestad.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/people/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -21,16 +27,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/_data/navigation.yml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_layouts/archive.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_layouts/about.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_layouts/home.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_config.yml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/people/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/research/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/people/kolko.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_site/people/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/research/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_config.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/navigation.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_layouts/home.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_layouts/archive.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/people/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1zNRSBiIvRh0uvSIY0pCNkKPqTq" />
   <component name="ProjectLevelVcsManager">
@@ -41,13 +47,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/avatar" />
       <recent name="$PROJECT_DIR$/people" />
     </key>
   </component>
@@ -60,7 +73,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633986565322</updated>
-      <workItem from="1633986571963" duration="2669000" />
+      <workItem from="1633986571963" duration="3329000" />
+      <workItem from="1634333551130" duration="583000" />
+      <workItem from="1634763028023" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="minor typo">
       <created>1634147302550</created>
@@ -76,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634150622168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="missing css fix">
+      <created>1634150914722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634150914722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

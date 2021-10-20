@@ -61,6 +61,13 @@ img{
   vertical-align: top;
 }
 
+@media (max-width: 400px) {
+  .people-tiles {
+    width: 150px;
+    margin: 20px 5px;
+  }
+}
+
 .people-tiles img{
   border-radius: 20px;
   transition: all .3s ease-in-out;
@@ -75,7 +82,7 @@ img{
   text-decoration: none;
   color: black;
   margin: 15px auto;
-  font-size: .8em;
+  font-size: 15px;
   line-height: 1.2em;
 }
 
@@ -153,6 +160,25 @@ img{
 .profile-r p{
   margin-top: 0;
   font-size: 15px;
+}
+
+@media (max-width: 560px){
+  .profile-l{
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .profile-r{
+    width: 90%;
+    margin-right: 5%;
+    padding: 0;
+  }
+
+  .profile img{
+    margin: 0 auto 20px auto;
+  }
 }
 
 .social-links{
