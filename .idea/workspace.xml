@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e3b3129-9949-4164-add9-35181de7147d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar/benabdallah_avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar/moldestad_avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/benabdallah.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people/moldestad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/avatar/aung_avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/aung.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/people/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +72,8 @@
       <updated>1633986565322</updated>
       <workItem from="1633986571963" duration="3329000" />
       <workItem from="1634333551130" duration="583000" />
-      <workItem from="1634763028023" duration="2822000" />
+      <workItem from="1634763028023" duration="3012000" />
+      <workItem from="1635210988002" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="minor typo">
       <created>1634147302550</created>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634150914722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added profiles, responsive profile page">
+      <created>1634767389725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634767389725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minor typo" />
     <MESSAGE value="missing css fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="missing css fix" />
+    <MESSAGE value="added profiles, responsive profile page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added profiles, responsive profile page" />
   </component>
 </project>
